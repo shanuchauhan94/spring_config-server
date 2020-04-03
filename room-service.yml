@@ -11,9 +11,10 @@ Spring:
                 password: shan@1234
                 driver-class-name: com.mysql.jdbc.Driver
              
+spring:       
        jpa:
-               hibernate:
-                       ddl-auto: none
-               show:-sql: true
+          hibernate:
+                  ddl-auto: none
+          show:-sql: true
 
 
