@@ -1,6 +1,3 @@
-my:
-        configuration for room-service application
-
 db:
         connecting to mysql db
 
