@@ -10,4 +10,8 @@ Spring:
                 username: root
                 password: shan@1234
                 driver-class-name: com.mysql.jdbc.Driver
+        jpa:
+          hibernate:
+                  ddl-auto: none
+          show-sql: true        
 
