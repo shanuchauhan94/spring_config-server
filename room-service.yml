@@ -1,11 +1,6 @@
-status:
-        desc: room-service cloud config connected.....
-        
-spring:
-  profiles:
-    active: local
-
 db:
+        desc: room-service cloud config connected.....
+        profile: local
         database:
                 url: jdbc:mysql://localhost:3306/pace_labs
                 username: root
