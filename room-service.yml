@@ -1,5 +1,5 @@
 db:
-        desc: connecting to mysql db
+        desc: room-service cloud config connected.....
         
 spring:
   profiles:
