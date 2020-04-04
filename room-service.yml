@@ -1,5 +1,5 @@
 db:
-        connecting to mysql db
+        desc: connecting to mysql db
         
 spring:
   profiles:
