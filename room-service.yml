@@ -1,16 +1,16 @@
-db:
+status:
         desc: room-service cloud config connected.....
         
 spring:
   profiles:
     active: local
 
-Spring:
-        datasource:
+db:
+        database:
                 url: jdbc:mysql://localhost:3306/pace_labs
                 username: root
                 password: shan@1234
-                driver-class-name: com.mysql.jdbc.Driver
+                driverclass: com.mysql.jdbc.Driver
         jpa:
           hibernate:
                   ddl-auto: none
