@@ -7,7 +7,6 @@ db:
                 password: shan@1234
                 driverclass: com.mysql.jdbc.Driver
         jpa:
-          hibernate:
-                  ddl-auto: none
-          show-sql: true        
+          ddl: none
+          sql: true        
 
