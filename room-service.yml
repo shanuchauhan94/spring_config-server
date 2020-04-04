@@ -1,5 +1,5 @@
 db:
-        desc: room-service cloud config connected.....
+        desc: updated room-service cloud config connected.....
         profile: local
         database:
                 url: jdbc:mysql://localhost:3306/pace_labs
